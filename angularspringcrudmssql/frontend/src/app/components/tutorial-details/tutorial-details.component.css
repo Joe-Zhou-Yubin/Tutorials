@@ -1,0 +1,6 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.edit-form {
+    max-width: 400px;
+    margin: auto;
+  }
